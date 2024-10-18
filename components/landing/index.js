@@ -1,0 +1,6 @@
+export { default as CTA } from "./cta.tsx"
+export { default as Hero } from "./hero.tsx"
+export { default as NavBar } from "./navbar.tsx"
+export { default as Footer } from "./footer.tsx"
+export { default as FAQ } from "./faq.tsx"
+export { default as Features } from "./features.tsx"
