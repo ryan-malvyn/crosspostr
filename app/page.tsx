@@ -6,15 +6,15 @@ export default function Welcome() {
 
   return (
     <div>
-      <div>
-        <NavBar />
-      </div>
-      <Hero />
-      <div>
-      Welcome to crosspostr
-      <GoogleSignIn />
-      <Instagram />
-      </div>
+      
+        <div>
+          <NavBar />
+        </div>
+        <main className='p-4'>
+        <Hero />
+        <div>
+        </div>
+      </main>
     </div>
   );
 }
